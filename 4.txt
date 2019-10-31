@@ -1,1 +1,1 @@
-this is to check whether this file is going to merge with Git_practice directory or not
+this is to check whether this file is going to merge with Git_test directory or not
